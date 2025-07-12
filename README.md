@@ -7,7 +7,7 @@ Este projeto utiliza uma estrutura modularizada para organizar o código de form
 Contém os scripts com funções reutilizáveis separadas por responsabilidades:
 
 src/<br>
-│
+│<br>
 ├── preprocessamento.py # Funções de redimensionamento, normalização, carregamento de imagens, etc.<br>
 ├── modelo.py # Funções para construção de arquiteturas como CNNs, Transformers, etc.<br>
 ├── avaliacao.py # Funções de avaliação: acurácia, precisão, revocação, F1-score, matriz de confusão.<br>
