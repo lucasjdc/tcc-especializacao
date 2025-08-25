@@ -1,0 +1,20 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar datasets grandes (se não quiser subir para o git)
+data/raw/
+data/processed/*.parquet
