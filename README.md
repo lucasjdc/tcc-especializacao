@@ -10,6 +10,8 @@ Este repositório contém os experimentos realizados durante meu TCC de especial
 └── transformer/
 ├── exp1/ # Primeiro experimento com Transformer
 └── exp2/ # Segundo experimento com Transformer
+├── preprocessing/
+│   └── normalize_classes.py
 ├── src/ # Scripts principais do projeto
 │ └── data_preparation.py
 ```
